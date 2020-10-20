@@ -1,4 +1,4 @@
-package cn.org.ferry.core.controllers;
+package cn.org.ferry.security.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

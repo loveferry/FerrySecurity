@@ -23,4 +23,13 @@ info:
 
 logging:
   level:
-    root: INFO
+    root: DEBUG
+
+
+
+
+spring:
+  security:
+    user:
+      name: ferry
+      password: ferry
